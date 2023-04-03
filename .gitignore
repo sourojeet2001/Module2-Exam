@@ -1,0 +1,4 @@
+# Ignoring environment variables.
+*.env
+# Ignoring vendor folder of composer.
+vendor/
